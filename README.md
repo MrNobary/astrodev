@@ -54,3 +54,5 @@ Após restruturar todas as props e implementar um arquivo ao outro, o site está
 ![Site inteiro](https://user-images.githubusercontent.com/77870818/230367620-67784e05-7e43-4dfa-bdf6-981b34c5618a.png)
 
 _Não que seja um exemplo de beleza, mas pelo menos aprendi o comportamento de várias funcionalidades e treinei minha organização de arquivos_
+
+*Ainda falta implementar a responsividade*
